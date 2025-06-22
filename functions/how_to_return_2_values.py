@@ -11,3 +11,33 @@ def add_sub(x, y):
 
 result1, result2 = add_sub(5, 4)
 print(result1, result2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+Output : 
+9 1
+'''
